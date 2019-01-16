@@ -1,0 +1,1 @@
+This folder contains all the assets required by the game. It will be copied to build folder.
