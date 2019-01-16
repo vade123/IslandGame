@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pawn-images/pawn-image1.png</file>
+        <file>pawn-images/pawn-image2.png</file>
+        <file>pawn-images/pawn-image3.png</file>
+        <file>pawn-images/pawn-image4.png</file>
+        <file>pawn-images/pawn-image5.png</file>
+        <file>pawn-images/pawn-image6.png</file>
+        <file>pawn-images/pawn-image-selected.png</file>
+        <file>actor-images/kraken.png</file>
+        <file>actor-images/shark.png</file>
+        <file>actor-images/seamunster.png</file>
+        <file>actor-images/kraken-selected.png</file>
+        <file>actor-images/seamunster-selected.png</file>
+        <file>actor-images/shark-selected.png</file>
+        <file>actor-images/vortex.png</file>
+        <file>transport-images/boat-selected.png</file>
+        <file>transport-images/boat.png</file>
+        <file>transport-images/dolphin-selected.png</file>
+        <file>transport-images/dolphin.png</file>
+    </qresource>
+</RCC>
